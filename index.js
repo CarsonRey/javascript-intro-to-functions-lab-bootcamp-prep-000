@@ -19,9 +19,9 @@ function sayHiToGrandma(string){
   
   return 'I can\'t hear you!'
   if 
-}
 
- function sayHiToGrandma(STRING){
+
+  if function sayHiToGrandma(STRING){
   return 'YES INDEED!'
  }
 
