@@ -16,16 +16,7 @@ function logWhisper(HELLO){
 }
 
 function sayHiToGrandma(string){
-  
-  function logWhisper(hello){
-  console.log(hello.toUpperCase())
-  }
-  
- function shout(hello){
-   return 'YES INDEED!'
- }  
-
- 
+  return 'I can\'t hear you!'
   
 
   
