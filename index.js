@@ -17,9 +17,9 @@ function logWhisper(HELLO){
 
 function sayHiToGrandma(string){
   
-  function whisper(hello)
+  function whisper(hello){
   return 'I can\'t hear you!'
-  
+  }
  'hello'.toUpperCase() === 'HELLO'
   return 'YES INDEED!'  
 
