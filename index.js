@@ -20,8 +20,10 @@ function sayHiToGrandma(string){
   function whisper(hello){
   return 'I can\'t hear you!'
   }
- 'hello'.toUpperCase() === 'HELLO'
-  return 'YES INDEED!'  
+  
+ function shout(hello){
+   return 'YES INDEED!'
+ }  
 
  
   
